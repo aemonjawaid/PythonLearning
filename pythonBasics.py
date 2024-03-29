@@ -16,7 +16,7 @@ birth_year = input("Enter birth year: ")
 age = 2024 - int(birth_year)
 print(age)
 
-strings
+# strings
 course = "Learning Python"
 print(course.find("Python"))
 print("Python" in course)
